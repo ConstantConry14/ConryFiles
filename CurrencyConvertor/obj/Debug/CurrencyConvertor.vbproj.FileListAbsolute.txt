@@ -1,0 +1,1 @@
+c:\users\conry\documents\visual studio 2015\Projects\CurrencyConvertor\CurrencyConvertor\bin\Debug\CurrencyConvertor.exe.config

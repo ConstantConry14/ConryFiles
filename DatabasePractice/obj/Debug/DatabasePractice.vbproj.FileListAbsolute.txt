@@ -1,0 +1,13 @@
+c:\users\conry\documents\visual studio 2013\Projects\DatabasePractice\DatabasePractice\bin\Debug\DatabasePractice.exe.config
+c:\users\conry\documents\visual studio 2013\Projects\DatabasePractice\DatabasePractice\bin\Debug\Members.mdf
+c:\users\conry\documents\visual studio 2013\Projects\DatabasePractice\DatabasePractice\bin\Debug\Members_log.ldf
+c:\users\conry\documents\visual studio 2013\Projects\DatabasePractice\DatabasePractice\bin\Debug\DatabasePractice.exe
+c:\users\conry\documents\visual studio 2013\Projects\DatabasePractice\DatabasePractice\bin\Debug\DatabasePractice.pdb
+c:\users\conry\documents\visual studio 2013\Projects\DatabasePractice\DatabasePractice\bin\Debug\DatabasePractice.xml
+c:\users\conry\documents\visual studio 2013\Projects\DatabasePractice\DatabasePractice\obj\Debug\DatabasePractice.Form1.resources
+c:\users\conry\documents\visual studio 2013\Projects\DatabasePractice\DatabasePractice\obj\Debug\DatabasePractice.Resources.resources
+c:\users\conry\documents\visual studio 2013\Projects\DatabasePractice\DatabasePractice\obj\Debug\DatabasePractice.vbproj.GenerateResource.Cache
+c:\users\conry\documents\visual studio 2013\Projects\DatabasePractice\DatabasePractice\obj\Debug\DatabasePractice.exe
+c:\users\conry\documents\visual studio 2013\Projects\DatabasePractice\DatabasePractice\obj\Debug\DatabasePractice.xml
+c:\users\conry\documents\visual studio 2013\Projects\DatabasePractice\DatabasePractice\obj\Debug\DatabasePractice.pdb
+C:\Users\Conry\documents\visual studio 2013\Projects\DatabasePractice\DatabasePractice\obj\Debug\DatabasePractice.vbprojResolveAssemblyReference.cache

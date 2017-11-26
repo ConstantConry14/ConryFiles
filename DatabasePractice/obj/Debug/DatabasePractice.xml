@@ -1,0 +1,156 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DatabasePractice
+</name>
+</assembly>
+<members>
+<member name="P:DatabasePractice.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:DatabasePractice.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:DatabasePractice.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.DaysDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.InstructorsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.MembersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.MembershipDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.PaymentsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.ScheduleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.DaysRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.InstructorsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.MembersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.MembershipRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.PaymentsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.ScheduleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.DaysRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.InstructorsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.MembersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.MembershipRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.PaymentsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet.ScheduleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSetTableAdapters.DaysTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSetTableAdapters.InstructorsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSetTableAdapters.MembersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSetTableAdapters.MembershipTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSetTableAdapters.PaymentsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSetTableAdapters.ScheduleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:DatabasePractice.MembersDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(DatabasePractice.MembersDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:DatabasePractice.MembersDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(DatabasePractice.MembersDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:DatabasePractice.MembersDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(DatabasePractice.MembersDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:DatabasePractice.MembersDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:DatabasePractice.MembersDataSetTableAdapters.TableAdapterManager.UpdateAll(DatabasePractice.MembersDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:DatabasePractice.MembersDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
