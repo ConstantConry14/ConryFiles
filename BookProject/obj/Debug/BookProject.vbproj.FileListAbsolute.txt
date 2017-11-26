@@ -1,0 +1,20 @@
+C:\Users\Conry\AppData\Local\Temporary Projects\BookProject\bin\Debug\BookProject.exe.config
+C:\Users\Conry\Documents\Visual Studio 2012\Projects\BookProject\BookProject\bin\Debug\BookProject.exe.config
+C:\Users\Conry\Documents\Visual Studio 2012\Projects\BookProject\BookProject\bin\Debug\BookCollection.MDF
+C:\Users\Conry\Documents\Visual Studio 2012\Projects\BookProject\BookProject\bin\Debug\BookCollection_log.ldf
+C:\Users\Conry\Documents\Visual Studio 2012\Projects\BookProject\BookProject\bin\Debug\BookProject.exe
+C:\Users\Conry\Documents\Visual Studio 2012\Projects\BookProject\BookProject\bin\Debug\BookProject.pdb
+C:\Users\Conry\Documents\Visual Studio 2012\Projects\BookProject\BookProject\bin\Debug\BookProject.xml
+C:\Users\Conry\Documents\Visual Studio 2012\Projects\BookProject\BookProject\obj\Debug\BookProject.Resources.resources
+C:\Users\Conry\Documents\Visual Studio 2012\Projects\BookProject\BookProject\obj\Debug\BookProject.vbproj.GenerateResource.Cache
+C:\Users\Conry\Documents\Visual Studio 2012\Projects\BookProject\BookProject\obj\Debug\BookProject.exe
+C:\Users\Conry\Documents\Visual Studio 2012\Projects\BookProject\BookProject\obj\Debug\BookProject.xml
+C:\Users\Conry\Documents\Visual Studio 2012\Projects\BookProject\BookProject\obj\Debug\BookProject.pdb
+C:\Users\Conry\Documents\Visual Studio 2012\Projects\BookProject\BookProject\obj\Debug\BookProject.frmMaintenance.resources
+C:\Users\Conry\Documents\Visual Studio 2012\Projects\BookProject\BookProject\obj\Debug\BookProject.frmMain.resources
+C:\Users\Conry\Documents\Visual Studio 2012\Projects\BookProject\BookProject\obj\Debug\BookProject.frmReports.resources
+C:\Users\Conry\Documents\Visual Studio 2012\Projects\BookProject\BookProject\obj\Debug\BookProject.frmOrders.resources
+D:\Windows\VisualStudio\FinalProject\BookProject\BookProject\bin\Debug\BookProject.exe.config
+D:\Windows\VisualStudio\FinalProject\BookProject\BookProject\obj\Debug\BookProject.exe
+D:\Windows\VisualStudio\FinalProject\BookProject\BookProject\obj\Debug\BookProject.xml
+D:\Windows\VisualStudio\FinalProject\BookProject\BookProject\obj\Debug\BookProject.pdb

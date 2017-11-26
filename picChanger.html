@@ -1,0 +1,101 @@
+<! DOCTYPE html>
+<html>
+<head>
+
+<style>
+div.image {
+	content:
+}
+</style>
+</head>
+<body>
+
+<div style= "padding: 20px 40px 300px 40px; margin: 30px; 20px 30px 40px; border-style: solid; text-align: center; border-style: insert"  >
+<img src="Mango.jpg" id="oo" height="200px" width="150px" >
+<img src="strawberry.jpg" id="pp" height="200px" width="150px" >
+<img src="orange.jpg" id="bb" height="200px" width="150px" >
+
+</div>
+
+<p id="joe"><p>
+
+<center>
+<button>
+Slice Show
+</button>
+</center>
+
+<button type="button" style="margin: 10px; padding: 10px;" value=" next. . " onclick= "chang()"  >
+Mango
+</button>
+<button type="button" style="margin: 10px; padding: 10px;" value=" next. . " onclick= "chng()"  >
+strawberry
+</button>
+<button type="button" style="margin: 10px; padding: 10px;" value=" next. . " onclick= "change1()"  >
+orange
+</button>
+
+<script type="text/javascript">
+var dd = 5; 
+var cc = 0; 
+function chang(){
+ var rotate = document.getElementById('oo'); 
+ 
+ var imageDr = " "; 
+ 
+ var images = ['Mango.jpg','strawberry.jpg', 'orange.jpg', 'grapes.jpg', 'cherry.jpg','bananas.jpg']; 
+ 
+ cc++; 
+ 
+ var len = images.length; 
+ if(cc < dd){
+	oo.src = imageDr + images[cc]; 
+ }
+ else if(cc == len){
+	oo.src = imageDr + images[0];
+	cc = 0; 
+ }
+}
+function chng(){
+ 
+ var rot = document.getElementById('pp');
+ var imageDr = " "; 
+ 
+ var images = ['Mango.jpg','strawberry.jpg', 'orange.jpg', 'grapes.jpg', 'cherry.jpg','bananas.jpg']; 
+ 
+ cc++; 
+ 
+ var len = images.length; 
+ if(cc < dd){
+	pp.src = imageDr + images[cc]; 
+ }
+ else if(cc == len){
+	pp.src = imageDr + images[0];
+	cc = 0; 
+ }
+
+}
+function change1(){
+var rot1 = document.getElementById('bb');
+ var imageDr = " "; // rootDirectory   directory == Images/
+ 
+ var images = ['Mango.jpg','strawberry.jpg', 'orange.jpg', 'grapes.jpg', 'cherry.jpg','bananas.jpg']; // image array
+ 
+ cc++; //
+ 
+ var len = images.length; 
+ if(cc < dd){
+	bb.src = imageDr + images[cc]; 
+ }
+ else if(cc == len){
+	bb.src = imageDr + images[0];
+	cc = 0; 
+ }
+
+
+}
+
+
+</script>
+</body>
+</html>
