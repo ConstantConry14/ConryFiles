@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Passage to India - SectionPage</title>
+  <meta charset="utf-8">
+  <meta name = "viewpoint" content="width=device-width, initial-scale=1">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+  <!-- Optional theme -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+  </script>
+  <style>
+.floatbox{
+  display: inline-block;
+  width: 250px;
+  height: 250px;
+  margin: 10px;
+  border: 5px;
+  background-image:url("PassagetoIndiaPic.jpg");
+
+  background-size: cover;
+  background-position: center;
+  border: 5px solid #ffffff;
+
+
+
+}
+.image{
+  text-align: center;
+
+}
+.move{
+  text-align: center;
+
+}
+.p{
+display: inline-block;
+
+}
+  </style>
+</head>
+<body>
+  <body style="background-color: yellow">
+
+    <nav class="navbar navbar-inverse">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="PassagetoIndia">Passage to India</a>
+        </div>
+
+          <ul class="nav navbar-nav">
+            <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="PassagetoIndiaMens">Mens<span class="caret"></span></a>
+              <ul class="dropdown-menu">
+                <li><a href="PassagetoIndiaNewArrivals - Men">New Arrivals</a></li>
+                <li><a href="Passage to India - TopMen">Tops</a></li>
+                <li><a href="Passage to India - PantsMen">Pants</a></li>
+                <li><a href="Passage to India - SandelsMen">Sandels</a></li>
+                <li><a href="Passage to India - SalesMen">Sales</a></li>
+              </ul>
+            </li>
+            <ul class="nav navbar-nav">
+              <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="PassagetoIndiaWomens">Womens<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                  <li><a href="PassagetoIndiaNewArrivals- Women">New Arrivals</a></li>
+                  <li><a href="Passage to India - DressesWomen">Dresses</a></li>
+                  <li><a href="Passage to India - TopsWomen">Tops</a></li>
+                  <li><a href="Passage to India - PantsWomen">Pants</a></li>
+                  <li><a href="Passage to India - SandelsWomen">Sandels</a></li>
+                  <li><a href="Passage to India - SalesWomen">Sales</a></li>
+                </ul>
+              </li>
+              <ul class="nav navbar-nav">
+                <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="PassagetoIndiaAccesories">Acessories<span class="caret"></span></a>
+                  <ul class="dropdown-menu">
+                    <li><a href="PassagetoIndiaNewArrivals - Accesories">New Arrivals</a></li>
+                    <li><a href="Passage to India - NecklessAcessories">Neckless</a></li>
+                    <li><a href="Passage to India - BraceletAccesories">Bracelet</a></li>
+                    <li><a href="Passage to India - RingAccesories">Rings</a></li>
+                    <li><a href="Passage to India - EarsAccesories">Ears</a></li>
+                    <li><a href="Passage to India - Bodychains">Bodychains</a></li>
+                    <li><a href="Passage to India - InsenseAccesories">Insense</a></li>
+                    <li><a href="Passage to India - BagsAccesories">Bags</a></li>
+                    <li><a href="Passage to India - SalesAccesories">Sales</a></li>
+                  </ul>
+                </li>
+
+          <li><a href="#">Page 3</a></li>
+        </ul>
+      </div>
+    </nav>
+
+
+<div class="move">
+  <a href="PassagetoIndia-individualPages">
+    <div class="floatbox">
+
+    </div>
+  </a>
+
+  <a href="PassagetoIndiaNewArrivals-individualPages">
+    <div class="floatbox">
+
+    </div>
+  </a>
+
+  <a href="PassagetoIndia-individualPages">
+    <div class="floatbox">
+
+    </div>
+  </a>
+</div>
+<div class="move">
+  <a href="PassagetoIndia-individualPages">
+    <div class="floatbox">
+
+    </div>
+  </a>
+  <a href="PassagetoIndia-individualPages">
+    <div class="floatbox">
+
+    </div>
+  </a>
+  <a href="PassagetoIndia-individualPages">
+    <div class="floatbox">
+
+    </div>
+  </a>
+  </div>
+
+
+</body>
+<footer>
+
+</footer>
+</html>
